@@ -1,0 +1,11 @@
+name: PlayerPoint
+version: 1.0
+main: playerpoint.Main
+author: PentazyNetworkDesenvolpement
+commands:
+  pontos:
+    description: Faz nd
+  conquistas:
+    description: Abre um menu GUI
+
+

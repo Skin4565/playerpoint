@@ -1,0 +1,10 @@
+Dar-Recompensa: 2
+
+
+MySQL:
+    ennable: false
+    Usuario: "root"
+    Senha: ""
+    Host: localhost
+    #Tabela mc_669
+    Porta: 3306
